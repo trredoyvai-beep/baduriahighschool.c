@@ -1,0 +1,2 @@
+# baduriahighschool.c
+baduria
